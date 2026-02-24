@@ -1,0 +1,3 @@
+lighthouse_repo_url: "https://github.com/VKCOM/lighthouse.git"
+lighthouse_version: "master"  # можно указать конкретный тег, например "v1.0.0"
+lighthouse_dest_dir: "/var/www/lighthouse"
